@@ -5,6 +5,11 @@ require("./db");
 require('dotenv').config();
 const stripe = require('stripe')('sk_test_...');
 
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
 
 
 const app = express();
